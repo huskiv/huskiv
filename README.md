@@ -1,16 +1,13 @@
-## Hi there 👋
+# Gabriel Mclerran
+CS student at Washington State University Vancouver, graduating May 2029. [I build systems from scratch to understand how they work, currently interested in ML and storage systems.]
 
-<!--
-**huskiv/huskiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Looking for Summer 2027 software engineering internships.
 
-Here are some ideas to get you started:
+## Projects
+- **[Neural Network from Scratch](https://github.com/huskiv/mnist-from-scratch)** (Python, NumPy): hand-derived backprop MLP (no autograd), gradient-checked against finite differences (max relative error 2.2e-07), 97.95% test accuracy on MNIST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+Building an LSM-tree storage engine from scratch in Python — durable WAL + memtable milestone in progress, compaction and crash-recovery testing staged after.
+
+## Contact
+[email] · [LinkedIn link]
